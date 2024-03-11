@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "ดาวน์โหลด-removebg-preview (1)",
+  "identifier": "texture:28721-44893f77-e2d0-40ec-9809-7d0c8b8b7c1c",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "67b53f4d65d2a2de6e9ad820d6338496",
+  "assetLocator": "textures/ดาวน์โหลด-removebg-preview (1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 340,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 89,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "67b53f4d65d2a2de6e9ad820d6338496",
+      "colorCount": 5692,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.060436716312549,
+      "pixelsHigh": 340,
+      "pixelsWide": 89
+    }
+  ]
+}
